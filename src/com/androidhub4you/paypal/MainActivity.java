@@ -27,7 +27,7 @@ public class MainActivity extends Activity implements OnClickListener{
 	//set the environment for production/sandbox/no netowrk
 	private static final String CONFIG_ENVIRONMENT = PayPalConfiguration.ENVIRONMENT_PRODUCTION;
 
-    private static final String CONFIG_CLIENT_ID = "AVJnphAP9fSC4xChNWIDSQaeWvPX_CXzYJFsrlUTfTygs7XppViSFsL_xBC3";
+    private static final String CONFIG_CLIENT_ID = "PUT YOUR PAYPAL CLIENT ID";
 
     private static final int REQUEST_PAYPAL_PAYMENT = 1;
 
